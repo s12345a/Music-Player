@@ -31,7 +31,7 @@ const music_list = [
         img : 'image/bd-image.jpg',
         name : 'betterdays',
         artist : 'Benjamin Tissot',
-        music : 'music/bensound-betterdays.mp3'
+        music : '/bensound-betterdays.mp3'
     },
     {
         img : 'image/sunny.jpg',
